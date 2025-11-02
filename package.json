@@ -3,7 +3,7 @@
 	"publisher": "nolindnaidoo",
 	"displayName": "%manifest.ext.name%",
 	"description": "Zero Hassle Web Scrapeability Checker - Validate scraper targets before debugging",
-	"version": "1.8.0",
+	"version": "1.8.1",
 	"license": "MIT",
 	"author": {
 		"name": "OffensiveEdge",
