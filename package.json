@@ -1,6 +1,6 @@
 {
 	"name": "scrape-le",
-	"publisher": "nolindnaidoo",
+	"publisher": "OffensiveEdge",
 	"displayName": "%manifest.ext.name%",
 	"description": "Zero Hassle Web Scrapeability Checker - Validate scraper targets before debugging",
 	"version": "1.8.1",
